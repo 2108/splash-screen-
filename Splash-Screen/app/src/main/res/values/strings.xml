@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Splash-Screen</string>
+    <string name="welcome_text"> Hi. Below is a small tutorial for how to make one such thing.
+    Cheers!! Happy Codding! </string>
+    <string name="tutorial_desc">
+    To create a splash scree, follow the steps:
+    </string>
+
+</resources>
